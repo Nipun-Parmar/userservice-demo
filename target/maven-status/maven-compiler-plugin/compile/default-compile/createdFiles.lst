@@ -1,0 +1,13 @@
+com\example\demo\models\BaseModel.class
+com\example\demo\DemoApplication.class
+com\example\demo\models\Token.class
+com\example\demo\repositories\UserRepository.class
+com\example\demo\controllers\UserController.class
+com\example\demo\dtos\LoginRequestDto.class
+com\example\demo\models\User.class
+com\example\demo\configs\Jpaconfigurations.class
+com\example\demo\dtos\SignUpRequestDto.class
+com\example\demo\dtos\LogoutRequestDto.class
+com\example\demo\services\UserService.class
+com\example\demo\configs\Configuration.class
+com\example\demo\models\Role.class

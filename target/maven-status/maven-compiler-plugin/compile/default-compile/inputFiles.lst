@@ -1,0 +1,13 @@
+E:\Scaler\Scaler Project\demo\src\main\java\com\example\demo\configs\Configuration.java
+E:\Scaler\Scaler Project\demo\src\main\java\com\example\demo\configs\Jpaconfigurations.java
+E:\Scaler\Scaler Project\demo\src\main\java\com\example\demo\controllers\UserController.java
+E:\Scaler\Scaler Project\demo\src\main\java\com\example\demo\DemoApplication.java
+E:\Scaler\Scaler Project\demo\src\main\java\com\example\demo\dtos\LoginRequestDto.java
+E:\Scaler\Scaler Project\demo\src\main\java\com\example\demo\dtos\LogoutRequestDto.java
+E:\Scaler\Scaler Project\demo\src\main\java\com\example\demo\dtos\SignUpRequestDto.java
+E:\Scaler\Scaler Project\demo\src\main\java\com\example\demo\models\BaseModel.java
+E:\Scaler\Scaler Project\demo\src\main\java\com\example\demo\models\Role.java
+E:\Scaler\Scaler Project\demo\src\main\java\com\example\demo\models\Token.java
+E:\Scaler\Scaler Project\demo\src\main\java\com\example\demo\models\User.java
+E:\Scaler\Scaler Project\demo\src\main\java\com\example\demo\repositories\UserRepository.java
+E:\Scaler\Scaler Project\demo\src\main\java\com\example\demo\services\UserService.java
